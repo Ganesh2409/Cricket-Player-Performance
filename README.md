@@ -101,5 +101,5 @@ python performance_analysis.py
 This project provides insights into cricket player performance using data analysis and machine learning techniques. It aims to help cricket analysts and enthusiasts understand the factors influencing player performance scores.
 
 
-![Logo]()
+![Logo](https://github.com/Ganesh2409/Cricket-Player-Performance/raw/main/Logo.png)
 
