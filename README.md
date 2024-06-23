@@ -9,7 +9,7 @@ This project involves analyzing cricket player performance using various dataset
 The project is structured as follows:
 
 ```
-cricket_performance_analysis/
+Cricket-Player-Performance/
 │
 ├── Data/
 │   ├── Batsman_Data.csv
@@ -39,8 +39,8 @@ Ensure you have Python 3.x installed along with necessary libraries listed in `r
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd cricket_performance_analysis
+   git clone https://github.com/Ganesh2409/Cricket_Player_Performance_Prediction.git
+   cd Cricket-Player-Performance
    ```
 
 2. Install dependencies:
