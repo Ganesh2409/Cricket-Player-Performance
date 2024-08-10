@@ -1,5 +1,4 @@
 # Cricket Performance Analysis
-
 ## Overview
 
 This project involves analyzing cricket player performance using various datasets related to batting, bowling, match results, and player statistics. The goal is to perform data preprocessing, feature engineering, and model training to predict and evaluate player performance scores.
