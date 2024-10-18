@@ -20,13 +20,13 @@ Cricket-Player-Performance/
 │
 ├── README.md
 ├── requirements.txt
-└── performance_analysis.py
+└── Player_Performance_Prediction.py
 ```
 
 - **Data/**: Directory containing CSV files for different datasets used in the analysis.
 - **README.md**: This file, containing project overview, setup instructions, and usage details.
 - **requirements.txt**: File listing dependencies required to run the project.
-- **performance_analysis.py**: Python script with code for data analysis, preprocessing, modeling, and evaluation.
+- **Player_Performance_Prediction.py**: Python script with code for data analysis, preprocessing, modeling, and evaluation.
 
 ## Setup Instructions
 
@@ -38,7 +38,7 @@ Ensure you have Python 3.x installed along with necessary libraries listed in `r
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ganesh2409/Cricket_Player_Performance_Prediction.git
+   git clone https://github.com/Ganesh2409/Cricket-Player-Performance.git
    cd Cricket-Player-Performance
    ```
 
@@ -52,7 +52,7 @@ Ensure you have Python 3.x installed along with necessary libraries listed in `r
 To run the performance analysis script:
 
    ```bash
-   python performance_analysis.py
+   python Player_Performance_Prediction.py
    ```
 
 ## Project Details
